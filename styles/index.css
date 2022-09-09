@@ -1,0 +1,139 @@
+
+header{
+    display: inline-block;
+}
+.logo {
+    display: inline;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.logo-dot {
+    color: #33A2E0;
+}
+nav {
+    list-style: none;
+    margin-top: 37px;
+    margin-left: 97px;
+    display: inline;
+}
+
+nav  li {
+    display:inline-block;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    padding: 38px;
+
+}
+.sign-in{
+    display: inline;
+    max-width: 51px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;    
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 752px;
+
+}
+
+.header-btn{
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background-color: #33A2E0;
+    border-radius: 6px;
+    border: none;
+    width: 120px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+
+.main-title{
+    max-width: 499px; 
+    width: 100%;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-left: 200px;
+    margin-top: 281px;
+
+}
+
+.main-info {
+    max-width: 583px;
+    width:100%;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    margin-left: 200px;
+    margin-top: 10px;
+   
+}
+
+.main-btn{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background-color: #33A2E0;
+    border-radius: 6px;
+    border: none;
+    width: 152px;
+    height: 64px;
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+
+.img{
+    max-width: 796px;
+    width: 100%;
+    margin-left: 10px;
+    
+}
+
+section{
+    display:inline-block;
+}
